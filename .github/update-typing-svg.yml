@@ -1,1 +1,27 @@
+name: Update Typing Animation
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Run every 5 minutes, adjust schedule as needed
+
+jobs:
+  update_typing_animation:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Detect theme and update README
+      run: |
+        if [ "$GITHUB_LIGHT_THEME" == "true" ]; then
+          text_color="000000"  # Black text for light theme
+        else
+          text_color="FFFFFF"  # White text for dark theme
+        fi
+        sed -i "s#https://readme-typing-svg.demolab.com.*#https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=$text_color&width=435&lines=Hi%2C+I+am+Jayanth.;Welcome+to+my+GitHub+page!;I+am+a+Data+Science+student.;Theme+%3A+Work+hard+%26+let+the+result+sink+in.;Connect+with+me+to+discuss+more+about+Data!)](https://git.io/typing-svg)#" README.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update Typing Animation" -a
+        git push
 
