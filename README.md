@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=000000&width=435&lines=Hi%2C+I+am+Jayanth.;Welcome+to+my+GitHub+page!;I+am+a+Data+Science+student.;Theme+%3A+Work+hard+%26+let+the+result+sink+in.;Connect+me+to+discuss+more+about+Data!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=000000&width=435&lines=Hi%2C+I+am+Jayanth.;Welcome+to+my+GitHub+page!;I+am+a+Data+Science+student.;Theme+%3A+Work+hard+%26+let+the+result+sink+in.;Connect+with+me+to+discuss+more+about+Data!)](https://git.io/typing-svg)
 
 ### Thanks for giving it a glance 🥳
 
