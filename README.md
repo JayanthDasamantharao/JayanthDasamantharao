@@ -1,6 +1,6 @@
 ### Hello folks! I am Jayanth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=1D97F7FF&width=435&lines=A+Data+Science+student.;+Welcome+to+my+GitHub+page!;+Theme+%3A+Work+hard+%26+let+the+result+sink+in.;Connect+with+me+to+discuss+more+about+Data!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=1D97F7FF&width=435&lines=A+Data+Science+student.;+Welcome+to+my+GitHub+page!;+Theme+%3A+Work+hard+%26+let+the+result+sink+in.;Let's+connect+to+discuss+more+about+Data!)](https://git.io/typing-svg)
 
 ### Thanks for giving it a glance 🥳
 
