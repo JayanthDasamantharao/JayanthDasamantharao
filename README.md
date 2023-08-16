@@ -4,6 +4,7 @@
 
 ### Thanks for giving it a glance 🥳
 
+--- 
 <h3 align="left">Let's connect at :</h3>
 
 <p align="left">
