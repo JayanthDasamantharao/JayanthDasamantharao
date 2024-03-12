@@ -28,7 +28,7 @@
 
 ### Who am I ?? <br/>
 #### 🎓 Current Data Science Graduate Student at [Rutgers University, New Brunswick](https://msds-stat.rutgers.edu/)<br>
-#### 👩‍💻 Data Analyst with 1.5 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
+#### 👩‍💻 Aspiring Data Scientist with over 3 years of combined academia,research & industry experience, committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
 #### ⚡ A data enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <br>
 #### ❤ I enjoy playing with data and exploring new technologies.<br />
 ### [😀 More about me !!](https://jayanthdasamantharao.github.io/#home)
